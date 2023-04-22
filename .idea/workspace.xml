@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72f3116b-edee-472e-9fc2-a5bcc8319a68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ovning1/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ovning2/Produkten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ovning3/Betala.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ovning4/Kvadraten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ovning5/Omvandlare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ovning6/EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ovning7/FinalCountdown.java" afterDir="false" />
+    <list default="true" id="72f3116b-edee-472e-9fc2-a5bcc8319a68" name="Changes" comment="hepp">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ovning8/HejSnurra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +48,13 @@
       <option name="presentableId" value="Default" />
       <updated>1682175964154</updated>
     </task>
+    <task id="LOCAL−00001" summary="hepp">
+      <created>1682184178498</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1682184178498</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,5 +67,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hepp" />
+    <option name="LAST_COMMIT_MESSAGE" value="hepp" />
   </component>
 </project>
